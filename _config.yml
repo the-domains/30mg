@@ -1,0 +1,60 @@
+layout_spectrum: 0.5217482162301088
+typography_spectrum: 0.5158526783181114
+color:
+  brandStrength: 0.8597622838456848
+  lightness: 0.38416716102897974
+  saturation: 0.6233848035485843
+  rhythmicContrast: 0.8700243855866207
+  brandColors:
+    - '#3C2D5C'
+    - '#B49DBB'
+    - '#FEE1FE'
+    - '#2CFCFE'
+    - '#F35EA4'
+name: 30mg
+colors:
+  brandColors:
+    - 'hsl(0,0%,100%)'
+    - 'hsl(0,0%,80%)'
+    - 'hsl(0,0%,60%)'
+    - 'hsl(0,0%,30%)'
+    - 'hsl(0,0%,20%)'
+navigation:
+  - name: twitter
+    url: 'https://twitter.com/seanolmedo'
+    type: external
+  - name: soundcloud
+    url: 'https://soundcloud.com/dj-pork-chop/dissociation'
+    type: external
+content:
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: image
+    html: >-
+      <img
+      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2c5b9753-f046-487c-a1a8-8759d6f1bce0.png">
+    src: >-
+      https://the-grid-user-content.s3-us-west-2.amazonaws.com/2c5b9753-f046-487c-a1a8-8759d6f1bce0.png
+    metadata:
+      author: []
+      related: []
+      publisher:
+        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
+        name: The-grid-user-content
+        favicon: null
+        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
+      keywords: []
+      description: ''
+      app_links: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      datePublished: null
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
+title: 30mg
+description: ' '
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/041f7128-0cd5-4dd4-8e4d-83cf1c2c2302.jpg
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/3ee48145-7d9f-410e-a9d4-0387fbbf7a81.jpg
+github: true
