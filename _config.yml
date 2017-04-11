@@ -23,11 +23,11 @@ colors:
     - 'hsl(0,0%,30%)'
     - 'hsl(0,0%,20%)'
 navigation:
-  - name: twitter
-    url: 'https://twitter.com/seanolmedo'
-    type: external
   - name: soundcloud
     url: 'https://soundcloud.com/dj-pork-chop/dissociation'
+    type: external
+  - name: twitter
+    url: 'https://twitter.com/seanolmedo'
     type: external
   - name: j
     id: d9ff48a0-be60-47cb-a677-94af232bd151
